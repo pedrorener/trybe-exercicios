@@ -1,0 +1,5 @@
+Olá Mundo,
+sou estudante da trybe,
+tenho 23 anos,
+esse é meu primeiro dia aqui,
+adeus.

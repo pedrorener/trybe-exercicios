@@ -1,0 +1,35 @@
+h1 {
+  color: greenyellow;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+
+body {
+  font-size: 16px;
+}
+
+.cor-de-fundo {
+  background-color: thistle;
+}
+
+p {
+  font-weight: 600;
+}
+
+li {
+  font-style: italic;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 2em;
+}
+
+#verde {
+  background-color: green;
+}
+#verde-escuro {
+  background-color: seagreen;
+}
+#azul {
+  background-color: aqua;
+}

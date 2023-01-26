@@ -10,15 +10,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Introdução - Unix, Shell & Git
 
-- [x] 1-1: _Unix & Shell- Part 1_
-- [x] 1-2: _Unix & Shell- Part 2_
-- [x] 1-3: _O que é Git e para que serve?_
-- [x] 1-4: _Entendendo os comandos_
+- [x] 1-1: UNIX & SHELL - Part 1
+- [x] 1-2: UNIX & SHELL - Part 2
+- [x] 1-3: GIT & GITHUB - O que é Git e para que serve?
+- [x] 1-4: GIT & GITHUB - Entendendo os comandos
 
 ##### Seção 2: Introdução à HTML e CSS
 
-- [ ] 2.1 - HTML & CSS - Estruturas de página
-- [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 2.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 2.4 - HTML Semântico
-- [ ] 2.5 - Projeto - Lessons Learned
+- [x] 2.1 - HTML & CSS - Estruturas de página
+- [x] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2.3 - HTML & CSS - Seletores e posicionamento
+- [x] 2.4 - HTML & CSS - HTML Semântico
+- [x] 2.5 - PROJETO - Lessons Learned
+
+##### Seção 3: Introdução à Javascript
+
+- [ ] 3.1 - JAVASCRIPT - Primeiro passos
+- [ ] 3.2 - JAVASCRIPT - Array e loop For
+- [ ] 3.3 - JAVASCRIPT - Lógica de Programação e Algoritimos
+- [ ] 3.4 - JAVASCRIPT - Objeto e Função
+- [ ] 3.5 - JAVASCRIPT - Let, Const, Arrow Functions e Template literals
+- [ ] 3.6 - PROJETO - Playground Functions
